@@ -1,8 +1,8 @@
 <p>
-<img src="images/stock-chart.jpeg" width="900" height="600">
+<img src="" width="900" height="600">
 </p>
 
-# Stock Market Prediction
+# Facial Recognition
 
 **Author**: Ning Chen
 
@@ -20,12 +20,12 @@
 - [Repository Structure](#Repository-Structure)
 
 ## Overview
-Accurate prediction of stock market asset is a significant and challenging task due to complicated nature of the financial stock markets. Considering the increasing availability and affordability of powerful computational engines, deep learning methods of prediction have proved its efficiency in finance.
+
 
 
 ## Business Understanding
 
-A time series regression model using NN or other advanced techniques is built to predict the stock market. Stock market prediction aims to determine the future movement of the stock value of a financial exchange. This project is helpful for Stock investors and investment banks to have a better understanding in developing economical Strategy and in making financial decisions.
+
 
 
 
@@ -123,8 +123,7 @@ Description of the structure of the repository and its contents:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── stock_market                        <- Narrative documentation of analysis in Jupyter notebook
-├── Presentation.pdf                    <- PDF version of project presentation
+├── Facial_Recognition                  <- Narrative documentation of analysis in Jupyter notebook
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
