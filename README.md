@@ -36,13 +36,11 @@
 
 
 ## Next Step
-- To access the updated quarterly reports timely and obtain more important features.
-- To tune the hyperparameters (exogenous variables) in Time Series models. Technical indicators such as MACD, Stochastic, RSI, etc can be used.
-- Besides Twitter, gathering more relevant sentimental data from other web sources.
+
 
 ## For More Information
 
-Please review our full analysis in [Jupyter Notebook](https://github.com/ghcn345/Stock-Market-Prediction/blob/master/stock_market.ipynb) or [presentation](https://github.com/ghcn345/Stock-Market-Prediction/blob/master/Presentation.pdf).
+Please review our full analysis in [Jupyter Notebook]().
 
 For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com**.
 
