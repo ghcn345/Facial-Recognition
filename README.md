@@ -16,7 +16,8 @@
 - [Repository Structure](#Repository-Structure)
 
 ## Overview
-
+Facial recognition is the process of identifying or verifying the identity of a person using their face. It captures, analyzes, and compares patterns based on the person's facial details. The face detection process is an essential step in detecting and locating human faces in images and videos. The face capture process transforms analog information (a face) into a set of digital information (data or vectors) based on the person's facial features.
+The face match process verifies if two faces belong to the same person.
 
 
 ## Business Understanding
